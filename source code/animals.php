@@ -2,7 +2,6 @@
  session_start();
  if(isset($_SESSION['user']))
  {
-
  }
  else{
   echo"<script>location.href='login.html'</script>";
