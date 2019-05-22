@@ -18,7 +18,7 @@ A mini database management system ,which helps the small scale petshop owner to 
 
 # Description :pencil:
 
-Full report [view] (https://github.com/pavanchikkanna)
+Full report <a href="https://github.com/pavanchikkanna/pet_shop/report">view </a>
 
 ## Screenshots :wink:
 * Login page
